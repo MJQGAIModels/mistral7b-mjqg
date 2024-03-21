@@ -1,4 +1,4 @@
-# Mistral Transformer
+# MJQG AI Models, Mistral 7B
 
 This repository contains minimal code to run our 7B model.
 
